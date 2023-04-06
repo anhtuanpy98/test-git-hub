@@ -17,5 +17,7 @@ public class Exercise6 {
         int[] arr = {12,1,2,14,96,97,27,33,70,21};
         System.out.println(solve(arr));
         //ad
+
+        //sup
     }
 }
